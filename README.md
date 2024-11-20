@@ -1,2 +1,2 @@
-# Care-Sphere
+# NovaCare
 Ethical AI in Healthcare
